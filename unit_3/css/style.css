@@ -1,7 +1,6 @@
 body {
 	background-color: white;
-	background: <img src="images/matt-nelson-259365.jpg">
-
+	background: <img src="images/matt-nelson-259365.jpg">no-repeat fixed center; 
 }
 h1, p {
 	font-family: Times New Roman;
