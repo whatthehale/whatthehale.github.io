@@ -1,8 +1,11 @@
 body {
-	background-color: blue;
+	background-color: white;
 }
 h1, p {
-	color: yellow;
+	font-family: Helvetica;
+	color: #2F4F4F;
+	font-size: 24px;
+
 }
 
 	<img src="images/matt-nelson-259365.jpg">
