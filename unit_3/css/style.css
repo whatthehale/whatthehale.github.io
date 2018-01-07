@@ -1,5 +1,7 @@
 body {
 	background-color: white;
+	background: <img src="images/matt-nelson-259365.jpg">
+
 }
 h1, p {
 	font-family: Times New Roman;
@@ -7,7 +9,14 @@ h1, p {
 	font-size: 54px;
 	text-align: center;
 	font-weight: bold;
-	margin: 0 0 .5em 0;
+	text-decoration
+	text-transform
+	margin
+	padding
+	border
+	width
+	text-align
+
 
 h2 {
    font-family: arial,verdana,sans-serif;
@@ -23,6 +32,12 @@ P {
    color: black;
 }
 	<img src="images/matt-nelson-259365.jpg">
+
+	ul {
+    text-align: center;
+    list-style-type: none;
+}
+
 
 
 
